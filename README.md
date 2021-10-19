@@ -7,4 +7,4 @@ Organize your dataset
  --ntu-dataset  
    ---all_train_sample.pkl  
    ---all_test_sample.pkl  
-   ![image](https://github.com/LY4C49/2RNN_ntu/blob/main/Result.png)
+   ![image](https://github.com/LY4C49/2RNN_ntu/blob/main/result.png)
